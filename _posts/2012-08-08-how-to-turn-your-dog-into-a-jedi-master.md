@@ -3,8 +3,7 @@ date: 2023-03-04 12:26:40
 layout: post
 title: 일변량,이변량,다변량 & 단순, 다중 용어정리
 subtitle: multiple regression과 multivariate regression은 전혀 다른 회귀분석이다
-description: 단순(simple), 다중(multiple)은 독립변수 $x$ 에 대한 용어이고,
-일변량(univariate), 이변량(bivariate), 다변량(multivariate)은 종속변수 $y$에 대한 용어이다.
+description: 단순(simple), 다중(multiple)은 독립변수 $x$ 에 대한 용어이고, 일변량(univariate), 이변량(bivariate), 다변량(multivariate)은 종속변수 $y$에 대한 용어이다.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
 category: 기초통계
