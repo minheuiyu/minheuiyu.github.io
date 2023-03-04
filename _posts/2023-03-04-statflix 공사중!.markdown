@@ -7,3 +7,6 @@ categories: jekyll update
 
 안녕하세요 :)
 앞으로 통계관련 글을 포스팅 할 예정이에요!
+
+
+published: true
