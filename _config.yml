@@ -47,7 +47,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://minheuiyu.github.io" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+language: "kor"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
