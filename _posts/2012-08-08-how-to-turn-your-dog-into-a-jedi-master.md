@@ -1,5 +1,6 @@
 ---
 date: 2023-03-04 12:26:40
+published: true
 layout: post
 title: 일변량,이변량,다변량 & 단순, 다중 용어정리
 subtitle: multiple regression과 multivariate regression은 전혀 다른 회귀분석이다
